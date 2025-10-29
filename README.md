@@ -1,0 +1,1 @@
+Convolutional Neural Network (CNN) trained to classify 300 by 300 RGB images of fruit. Used one convolutional layer, adpative max pooling and two linear layers with the Rectified Linear Unit (ReLU) activation function.
